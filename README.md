@@ -1,2 +1,2 @@
-# Bloggin Website
+# Blogging Website
 Completed Prototype of a Blogging Website using MongoDB, ExpressJS, NodeJS
